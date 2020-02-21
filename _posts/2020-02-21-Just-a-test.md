@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My tittle"
+title: "New blog"
 date: 2020-02-21
 ---
 
